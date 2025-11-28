@@ -1,0 +1,7 @@
+{
+  "name": "MTL Craft Cocktails AI",
+  "description": "Voice-first AI assistant for bartender event planning and packing list generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
